@@ -5,14 +5,14 @@ This repo contains a complete presentation on Large Language Models (LLMs) tailo
 The goal of this presentation is to demystify LLMs and show how they can be applied strategically in real business settings from chatbots and copilots to RAG pipelines and governance best practices. It’s built to educate, start conversations, and support the growing need for AI-fluent leadership.
 
 ## Topics Covered
-What are LLMs?
-Why they matter for organizations
-Core concepts (tokens, inference, prompt engineering, embeddings)
-Advanced architectures: RAG, CAG, fine-tuning
-Deployment strategies (API, On-Prem, latency considerations)
-Safety, risk, and governance
-Real-world use cases: chatbots, copilots, agents, and more
-Strategic takeaways for executives
+- What are LLMs?
+- Why they matter for organizations
+- Core concepts (tokens, inference, prompt engineering, embeddings)
+- Advanced architectures: RAG, CAG, fine-tuning
+- Deployment strategies (API, On-Prem, latency considerations)
+- Safety, risk, and governance
+- Real-world use cases: chatbots, copilots, agents, and more
+- Strategic takeaways for executives
 
 ## Feedback & Contributions
 Feel free to fork, clone, or share this repo. If you have feedback, ideas, or want to collaborate open an issue or reach out!
